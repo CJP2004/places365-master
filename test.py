@@ -40,6 +40,7 @@ model.load_state_dict(state_dict)
 model.to(device)
 model.eval()
 
+
 # 定义图像预处理步骤
 preprocess = transforms.Compose([
     transforms.Resize((224, 224)),
