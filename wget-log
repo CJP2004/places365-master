@@ -1,0 +1,90 @@
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.109.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:31:13--  (尝试次数： 3)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.109.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:31:16--  (尝试次数： 4)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.109.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:31:20--  (尝试次数： 5)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.109.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:31:25--  (尝试次数： 6)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.109.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:31:30--  (尝试次数： 7)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.109.153|:80... 失败：Operation timed out。
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:31:37--  (尝试次数： 8)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:31:46--  (尝试次数： 9)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:31:55--  (尝试次数：10)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:32:05--  (尝试次数：11)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:32:15--  (尝试次数：12)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:32:25--  (尝试次数：13)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:32:35--  (尝试次数：14)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:32:45--  (尝试次数：15)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:32:55--  (尝试次数：16)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:33:06--  (尝试次数：17)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (Connection reset by peer)。
+重试中。
+
+--2024-08-05 13:33:16--  (尝试次数：18)  http://ethereon.github.io/netscope/
+正在连接 ethereon.github.io (ethereon.github.io)|185.199.110.153|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：1485 (1.5K) [text/html]
+正在保存至: “resnet152_places365.pth.tar”
+
+     0K .                                                     100% 30.8M=0s
+
+2024-08-05 13:33:16 (30.8 MB/s) - 已保存 “resnet152_places365.pth.tar” [1485/1485])
+
